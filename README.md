@@ -5,14 +5,18 @@
 I'm intrested in ICT & Information Security and mainly served as Back-end developer.  
 情報通信技術とコンピュータセキュリティに興味があり、バックエンド開発を担当しています。  
 <br>
-<img src="https://img.shields.io/badge/knukdy16@knu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/knukdy16@knu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/join262-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br>  
-2023. 01. 06.
+2023. 05. 20.
 
 ### :rocket: 현재 (Currently)
-<a href="https://cse.knu.ac.kr"><img src="./img/knu.png" width="40%" height="40%"></a> <div>경북대학교 IT대학 컴퓨터학부 학사과정  
-Kyungpook National University, School of Computer Science and Engineering Bachelor's course</div>
+<a href="https://www.ldcc.co.kr/"><img src="./img/ldcc.jpg" width="40%" height="40%"></a> <div>롯데정보통신 SM사업본부 화학IS팀  
+LOTTE Data Communication Co. </div>
+
+### :octocat: 학력 (Education)
+<a href="https://cse.knu.ac.kr"><img src="./img/knu.png" width="40%" height="40%"></a> <div>경북대학교 IT대학 컴퓨터학부 공학사  
+Kyungpook National University, School of Computer Science and Engineering, Bachelor's Degree</div>
 
 ### :speech_balloon: 언어 (Language Skills)
  :kr: 한국어(Korean, 韓国語): Native Language  
