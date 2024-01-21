@@ -8,11 +8,11 @@ I'm intrested in ICT & Information Security and mainly served as Back-end develo
 <!-- <img src="https://img.shields.io/badge/knukdy16@knu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/join262-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br>  
-2023. 07. 20.
+2024. 01. 21.
 
 ### :rocket: 현재 (Currently)
-<a href="https://www.ldcc.co.kr/"><img src="./img/ldcc.jpg" width="40%" height="40%"></a> <div>롯데정보통신 SM사업본부 화학IS팀 영업4담당  
-LOTTE Data Communication Co. System Management Business HQ. Chemical IS Team Sales Section 4  
+<a href="https://www.ldcc.co.kr/"><img src="./img/ldcc_ko.png" width="40%" height="40%"></a> <div>롯데정보통신 SM사업본부 화학IS팀 영업2담당  
+LOTTE Data Communication Co. System Management Business HQ. Chemical IS Team Sales Section 2  
 
 </div>
 
